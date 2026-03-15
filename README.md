@@ -125,6 +125,8 @@ def train_model(model, train_loader, test_loader, loss_fn, optimizer, epochs=3):
 <img width="416" height="689" alt="image" src="https://github.com/user-attachments/assets/4357d087-29bb-4f23-ab80-5922dbff7d1f" />
 
 
+
+
 ## RESULT
 
 
